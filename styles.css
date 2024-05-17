@@ -17,6 +17,7 @@ ul,li,a{
 	text-decoration-line: none;
 	color:black;
 }
+
 #video_audio_container{
 	width:500px;
 	margin-left: auto;
@@ -27,7 +28,21 @@ ul,li,a{
 	border-radius:5px;
 	padding:10px;
 }
+.player_one{
+	background-color:white;
+	padding:0px;
+	border-radius:0;
+}
+.player_two{
+	background-color:white;
+	padding:0px;
+	border-radius:0;
+}
 p{
 	text-align:left;
 	font-family:bolder;
+}
+audio{
+	width: 500px; 
+	height: 50px;
 }
